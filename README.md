@@ -10,6 +10,12 @@ Application built on Windows. Some functionality and setup may need to be update
 * Real-time translation
 * No API keys or fees required
 * Support for long text passages
+* No GPU needed
+
+### Minimum/Recommended Requirements:
+- RAM: 4GB/8GB
+- Storage: 2GB/5GB free space
+- CPU: Any modern processor/multi-score processor (2 cores+/4 cores)
 
 ## 🚀 Quick Start
 
@@ -22,21 +28,21 @@ Application built on Windows. Some functionality and setup may need to be update
 ### Installation using bash
 
 #### Step 1: Clone the repository in a new project folder
-`mkdir translate-demo-app`
-`cd translate-demo-app`
-`git clone https://github.com/hnstaggs/translate-demo.git`
+1. `mkdir translate-demo-app`
+2. `cd translate-demo-app`
+3. `git clone https://github.com/hnstaggs/translate-demo.git`
 
 #### Step 2: Create a virtual environment
-`python -m venv venv`
-`cd venv`
-`Scripts\activate`  # On Windows
+4. `python -m venv venv`
+5. `cd venv`
+6. `Scripts\activate`  # On Windows
   
 #### Step 3: Install required packages
-`cd ..`  # Back to root directory
-`pip install -r requirements.txt`
+7. `cd ..`  # Back to root directory
+8. `pip install -r requirements.txt`
 
 #### Step 4: Run the app
-`streamlit run app.py`
+9. `streamlit run app.py`
 
 #### Step 5: App should automatically launch in browser. If not, Locate URL provided by streamlit console output and paste into web browser.
 * Example: http://localhost:8501
@@ -51,10 +57,9 @@ Application built on Windows. Some functionality and setup may need to be update
 * Your app will be live in the cloud at https://[translate-demo].streamlit.app
 
 📦 Dependencies
-* Windows 11
+* Windows
 * Public facing github repo for project
 * Up-to-date requirements.txt for streamlit deploy
-* Packages: streamlit, transformers, torch, sentencepiece
 
 💻 Usage
 * Upload document needing translation
