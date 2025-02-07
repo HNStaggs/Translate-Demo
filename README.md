@@ -17,30 +17,26 @@ Application built on Windows. Some functionality and setup may need to be update
 * Python 3.8 or higher
 * pip (Python package installer)
 * A GitHub account
-* A Streamlit Cloud account (free at streamlit.io)
+* A Streamlit Cloud account - free at [streamlit.io](https://streamlit.io/)
 
-### Installation
+### Installation using bash
 
 #### Step 1: Clone the repository in a new project folder
-bash
-  mkdir translate-demo-app
-  cd translate-demo-app
-  git clone https://github.com/hnstaggs/translate-demo.git
+`mkdir translate-demo-app`
+`cd translate-demo-app`
+`git clone https://github.com/hnstaggs/translate-demo.git`
 
 #### Step 2: Create a virtual environment
-bash
-  python -m venv venv
-  cd venv
-  Scripts\activate  # On Windows
+`python -m venv venv`
+`cd venv`
+`Scripts\activate`  # On Windows
   
 #### Step 3: Install required packages
-bash
-  cd ..  # Back to root directory
-  pip install -r requirements.txt
+`cd ..`  # Back to root directory
+`pip install -r requirements.txt`
 
 #### Step 4: Run the app
-bash
-  streamlit run app.py
+`streamlit run app.py`
 
 #### Step 5: App should automatically launch in browser. If not, Locate URL provided by streamlit console output and paste into web browser.
 * Example: http://localhost:8501
@@ -64,16 +60,12 @@ bash
 * Upload document needing translation
 * Select target language from the dropdown menu
 * Click "Translate"
-* Downloan translated file
+* Download translated file
 
-🛠️ Configuration
-The app uses default settings, but you can modify config.yaml to:
+🛠️ Configuration: The app uses default settings, but you can modify config.yaml to:
 * Change the default language pairs
 * Adjust model parameters
 * Customize the UI
-
-📝 License
-* This project is licensed under the MIT License - see the LICENSE file for details.
 
 ⚠️ Limitations
 * Translation quality may vary depending on the language pair
