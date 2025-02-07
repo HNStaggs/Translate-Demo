@@ -15,7 +15,7 @@ Application built on Windows. Some functionality and setup may need to be update
 ### Minimum/Recommended Requirements:
 - RAM: 4GB/8GB
 - Storage: 2GB/5GB free space
-- CPU: Any modern processor/multi-score processor (2 cores+/4 cores)
+- CPU: Any modern processor/multi-score processor (2 cores+/4 cores+)
 
 ## 🚀 Quick Start
 
