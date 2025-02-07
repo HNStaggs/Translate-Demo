@@ -19,6 +19,9 @@ Application built on Windows. Some functionality and setup may need to be update
 
 ## 🚀 Quick Start
 
+## Programming Languages
+* Python
+
 ### Prerequisites
 * Python 3.8 or higher
 * pip (Python package installer)
@@ -92,4 +95,7 @@ The Tatoeba Translation Challenge: Realistic Data Sets for Low Resource and Mult
 "Proceedings of the Fifth Conference on Machine Translation". Nov 2020. Online. Pages 1174-1182
 "Association for Computational Linguistics". https://www.aclweb.org/anthology/2020.wmt-1.139
 
-Made with ❤️ by Halee
+# Made with ❤️ by Halee
+
+# Style
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
