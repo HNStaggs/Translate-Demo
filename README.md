@@ -19,7 +19,7 @@ Application built on Windows. Some functionality and setup may need to be update
 
 ## 🚀 Quick Start
 
-## Programming Languages
+### Programming Languages
 * Python
 
 ### Prerequisites
