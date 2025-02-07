@@ -56,33 +56,33 @@ Application built on Windows. Some functionality and setup may need to be update
 * Click "Deploy"
 * Your app will be live in the cloud at https://[translate-demo].streamlit.app
 
-📦 Dependencies
+## 📦 Dependencies
 * Windows
 * Public facing github repo for project
 * Up-to-date requirements.txt for streamlit deploy
 
-💻 Usage
+## 💻 Usage
 * Upload document needing translation
 * Select target language from the dropdown menu
 * Click "Translate"
 * Download translated file
 
-🛠️ Configuration: The app uses default settings, but you can modify config.yaml to:
+## 🛠️ Configuration: The app uses default settings, but you can modify config.yaml to:
 * Change the default language pairs
 * Adjust model parameters
 * Customize the UI
 
-⚠️ Limitations
+## ⚠️ Limitations
 * Translation quality may vary depending on the language pair
 * Processing speed depends on your hardware capabilities
 * Some language pairs might not be available in this build, but can be added based on model release
 
-🙏 Acknowledgments/Credits
+## 🙏 Acknowledgments/Credits
 * Built with Streamlit Apache 2.0
 * Uses Hugging Face Transformers Apache 2.0
 * Inspired by open-source translation and deployment tools ⬇️
 
-📚 Additional Resources, Citations, and Attributes
+## 📚 Additional Resources, Citations, and Attributes
 * [Streamlit Documentation](https://docs.streamlit.io/)
 * [Hugging Face Documentation](https://huggingface.co/docs/hub/index)
 * [HelsinkiNLPModelCitation](https://github.com/Helsinki-NLP)
