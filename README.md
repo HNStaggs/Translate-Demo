@@ -44,10 +44,12 @@ Application built on Windows. Some functionality and setup may need to be update
 #### Step 4: Run the app
 9. `streamlit run app.py`
 
-#### Step 5: App should automatically launch in browser. If not, Locate URL provided by streamlit console output and paste into web browser.
+#### Step 5: App should automatically launch in your browser
+* If not, Locate URL provided by streamlit console output and paste into web browser.
 * Example: http://localhost:8501
+* Test app functionality on your machine
 
-#### Step 6: Deploying to Streamlit Cloud
+#### Step 6: Deploying to Streamlit Cloud to Share with Others
 * Push your code to your GitHub repository
 * Log in to Streamlit Cloud
 * Give Streamlit access to your github
