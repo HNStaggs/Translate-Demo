@@ -1,0 +1,55 @@
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+
+This project incorporates components from the following third parties:
+
+1. Streamlit
+-----------------
+Copyright (c) Streamlit Inc.
+Licensed under the Apache License, Version 2.0
+Website: https://streamlit.io/
+Source: https://github.com/streamlit/streamlit
+License: https://github.com/streamlit/streamlit/blob/master/LICENSE
+
+2. Hugging Face Transformers
+-----------------
+Copyright (c) 2018 The Hugging Face Team
+Licensed under the Apache License, Version 2.0
+Website: https://huggingface.co/
+Source: https://github.com/huggingface/transformers
+License: https://github.com/huggingface/transformers/blob/main/LICENSE
+
+3. Helsinki-NLP/OPUS-MT Models
+-----------------
+Copyright (c) University of Helsinki
+Licensed under the Apache License, Version 2.0
+Website: https://opus.nlpl.eu/
+Source: https://huggingface.co/Helsinki-NLP
+Model Repository: https://huggingface.co/Helsinki-NLP/opus-mt-en-fr
+License: https://huggingface.co/Helsinki-NLP/opus-mt-en-fr/blob/main/LICENSE
+
+For full text of the Apache License, Version 2.0:
+--------------------------------------------
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+Additional Acknowledgments:
+-------------------------
+This project uses pre-trained models from the OPUS-MT project, which incorporates 
+parallel data from various sources. The models are provided for research and 
+development purposes.
+
+For questions about licensing or usage, please refer to the respective projects' 
+documentation and license terms.
