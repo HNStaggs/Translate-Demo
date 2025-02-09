@@ -3,8 +3,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-# LLM Translation App
-A streamlit-based application that leverages open-source, pretrained Large Language Models (LLMs) for document text translation. 
+# Machine Translation App
+A streamlit-based application that leverages open-source, pretrained models for document text translation. 
 This app provides free translation capabilities using publicly available models and frameworks.
 Application built on Windows. Some functionality and setup may need to be updated to deploy on other OS.
 
@@ -68,8 +68,9 @@ Application built on Windows. Some functionality and setup may need to be update
 * Up-to-date requirements.txt for streamlit deploy
 * Streamlit
 * Transformers
-* PyTorch
-* python-docx
+* Torch
+* sentencepiece
+* protobuf
 * Git
 
 ## 💻 Usage
