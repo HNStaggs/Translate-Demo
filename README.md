@@ -67,7 +67,7 @@ Application built on Windows. Some functionality and setup may need to be update
 * Public facing github repo for project
 * Up-to-date requirements.txt for streamlit deploy
 * Streamlit
-* Transformers (MarianMT models)
+* Transformers
 * PyTorch
 * python-docx
 * Git
