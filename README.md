@@ -1,5 +1,5 @@
-![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
+![Python](https://img.shields.io/badge/python-3.13+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.41.1+-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
@@ -24,7 +24,7 @@ Application built on Windows. Some functionality and setup may need to be update
 ## 🚀 Quick Start
 
 ### Prerequisites
-* Python 3.9+
+* Python 3.13+
 * pip (Python package installer)
 * A GitHub account
 * A Streamlit Cloud account - free at [streamlit.io](https://streamlit.io/)
